@@ -1,0 +1,12 @@
+{
+  "load_extensions": {
+    "bqplot/extension": true,
+    "jupyter-datawidgets/extension": true,
+    "jupyter-leaflet/extension": true,
+    "jupyter-threejs/extension": true,
+    "jupyter-vega3/index": true,
+    "jupyter-js-widgets/extension": true,
+    "jupyter-vega/index": true,
+    "jupyter-matplotlib/extension": true
+  }
+}
